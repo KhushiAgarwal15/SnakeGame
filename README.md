@@ -1,6 +1,7 @@
 # SnakeGame
 A simple, console-based Snake game implemented in Java. Players control a snake to eat food while avoiding collisions with walls and the snake's own body.
 Gameplay screenshot
+
 ![image](https://github.com/KhushiAgarwal15/SnakeGame/assets/91818423/217a8ac0-8805-442f-ac7e-fa33ed7bfb0a)
 
 ##Features
